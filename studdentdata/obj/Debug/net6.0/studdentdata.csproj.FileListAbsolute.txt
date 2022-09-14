@@ -1,0 +1,15 @@
+C:\Users\Mohan g p\C#\studdentdata\bin\Debug\net6.0\studdentdata.exe
+C:\Users\Mohan g p\C#\studdentdata\bin\Debug\net6.0\studdentdata.deps.json
+C:\Users\Mohan g p\C#\studdentdata\bin\Debug\net6.0\studdentdata.runtimeconfig.json
+C:\Users\Mohan g p\C#\studdentdata\bin\Debug\net6.0\studdentdata.dll
+C:\Users\Mohan g p\C#\studdentdata\bin\Debug\net6.0\studdentdata.pdb
+C:\Users\Mohan g p\C#\studdentdata\obj\Debug\net6.0\studdentdata.csproj.AssemblyReference.cache
+C:\Users\Mohan g p\C#\studdentdata\obj\Debug\net6.0\studdentdata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan g p\C#\studdentdata\obj\Debug\net6.0\studdentdata.AssemblyInfoInputs.cache
+C:\Users\Mohan g p\C#\studdentdata\obj\Debug\net6.0\studdentdata.AssemblyInfo.cs
+C:\Users\Mohan g p\C#\studdentdata\obj\Debug\net6.0\studdentdata.csproj.CoreCompileInputs.cache
+C:\Users\Mohan g p\C#\studdentdata\obj\Debug\net6.0\studdentdata.dll
+C:\Users\Mohan g p\C#\studdentdata\obj\Debug\net6.0\refint\studdentdata.dll
+C:\Users\Mohan g p\C#\studdentdata\obj\Debug\net6.0\studdentdata.pdb
+C:\Users\Mohan g p\C#\studdentdata\obj\Debug\net6.0\studdentdata.genruntimeconfig.cache
+C:\Users\Mohan g p\C#\studdentdata\obj\Debug\net6.0\ref\studdentdata.dll
